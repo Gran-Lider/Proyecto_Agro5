@@ -18,6 +18,7 @@ void setup() {
   }
 }
 
+//LOOP
 void loop() {
   bool estado40 = digitalRead(pin40);
 
